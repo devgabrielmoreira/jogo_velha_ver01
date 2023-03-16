@@ -82,4 +82,3 @@ function endGame() {
 }
 // Passo 4: Adicionar a mensagem de resultado
 // Por fim, adicionamos um elemento HTML para exibir a mensagem de resultado do jogo. Aqui está um exemplo:
-<div id="result"></div>
